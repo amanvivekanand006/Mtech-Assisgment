@@ -11,4 +11,4 @@ def divide(a, b):
     if b == 0:
         return None
     return a / b
-# modifyed CALCULATOR FUNCTIONS
+# modifyed CALCULATOR FUNCTIONS to Verify that Jenkins automatically triggers the pipeline
